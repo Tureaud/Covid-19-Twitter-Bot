@@ -5,5 +5,5 @@ Using the Twitter API publish Covid-19 Stats every hour
 
 
 <p align="center">
-<img src="https://github.com/Tureaud/Covid-19-Twitter-Bot/blob/main/Image%20Assets/Twitterprofile.JPG" width="600" height="500" />
+<img src="https://github.com/Tureaud/Covid-19-Twitter-Bot/blob/main/Image%20Assets/Twitterprofile.JPG" />
 </p>
